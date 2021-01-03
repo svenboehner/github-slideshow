@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I write this  to test this function.
+> # If life gives you lemons
+> ## make lemonade!
+
 Use the left arrow to go back!
